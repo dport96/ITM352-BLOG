@@ -1,7 +1,7 @@
 # The blog configuration 
 
-name: My Blog
-description: This is my blog where I post stuff
+name: ITM 352 BLOG
+description: This is where ITM 352 posts their blog stuff
 author: Me
 permalink: /blog/:title/
 timezone: Europe/Berlin
